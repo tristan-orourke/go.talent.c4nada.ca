@@ -10,3 +10,4 @@ uat,http://uat-talentcloud.tbs-sct.gc.ca/
 preprod,https://preprod.talent.canada.ca/
 auth-keys,https://te-auth.id.tbs-sct.gc.ca/oxauth/restv1/jwks
 auth-config,https://te-auth.id.tbs-sct.gc.ca/oxauth/.well-known/openid-configuration
+speedlinks,https://handbook.hypha.coop/guides.html#accessing-shortlinks
