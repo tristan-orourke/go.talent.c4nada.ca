@@ -11,3 +11,5 @@ preprod,https://preprod.talent.canada.ca/
 auth-keys,https://te-auth.id.tbs-sct.gc.ca/oxauth/restv1/jwks
 auth-config,https://te-auth.id.tbs-sct.gc.ca/oxauth/.well-known/openid-configuration
 speedlinks,https://handbook.hypha.coop/guides.html#accessing-shortlinks
+my-tickets,https://github.com/GCTC-NTGC/gc-digital-talent/issues?q=is:open+assignee:@me
+my-reviews,https://github.com/GCTC-NTGC/gc-digital-talent/pulls/review-requested/@me
