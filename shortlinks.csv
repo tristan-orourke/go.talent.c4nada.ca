@@ -1,7 +1,8 @@
 keyword,destination_url
 shortlinks,https://prose.io/#patcon/link.talent.c4nada.ca/edit/main/shortlinks.csv
 figma,https://www.figma.com/files/team/968615166805902879/GC-Digital-Talent
-office,https://app.gather.town/app/nWrXrRG1riSo7SLw/TalentCloudForestOffice
+office,https://app.staging.gather.town/app/nWrXrRG1riSo7SLw/TalentCloudForestOffice
+office-safemode,https://app.gather.town/app/nWrXrRG1riSo7SLw/TalentCloudForestOffice
 onboarding,https://trello.com/b/PMhTjbcA/gc-digital-talent-tech-onboarding-template
 chat,https://talent-cloud.slack.com/
 dns,https://github.com/g0v-network/domains/tree/main/c4nada.ca.domain
