@@ -4,6 +4,12 @@ This code repository contains a list of helpful shortlinks for finding public re
 
 The shortlinks are automatically updated on each change to this repository
 
+## Why?
+
+Maintaining a shortlink service with other people allows:
+1. Building a common language of keywords, helpful for voice communication and finding the digital resources themselves,
+2. Updating shortlink keywords allows resources to be migrated without requiring everyone to be notified.
+
 | Workflow | Status |
 |----------|--------|
 | :gear: [`update-shortlinks`][] | :scroll: [![Shortlink Badge][shortlink-badge]][shortlink-logs]
