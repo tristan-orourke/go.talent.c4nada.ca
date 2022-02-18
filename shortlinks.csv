@@ -6,9 +6,6 @@ office-safemode,https://app.gather.town/app/nWrXrRG1riSo7SLw/TalentCloudForestOf
 onboarding,https://trello.com/b/PMhTjbcA/gc-digital-talent-tech-onboarding-template
 chat,https://talent-cloud.slack.com/
 dns,https://github.com/g0v-network/domains/tree/main/c4nada.ca.domain
-dev,http://dev-talentcloud.tbs-sct.gc.ca/
-uat,http://uat-talentcloud.tbs-sct.gc.ca/
-preprod,https://preprod.talent.canada.ca/
 auth-keys,https://te-auth.id.tbs-sct.gc.ca/oxauth/restv1/jwks
 auth-config,https://te-auth.id.tbs-sct.gc.ca/oxauth/.well-known/openid-configuration
 speedlinks,https://handbook.hypha.coop/guides.html#accessing-shortlinks
