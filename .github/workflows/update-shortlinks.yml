@@ -1,0 +1,43 @@
+name: Update Shortlinks
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/*shortlinks*.yml
+      - shortlinks.csv
+  pull_request:
+    paths:
+      - .github/workflows/*shortlinks*.yml
+      - shortlinks.csv
+  repository_dispatch:
+    types: [force-update-shortlinks]
+  workflow_dispatch:
+
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        id: setup-python
+        with:
+          python-version: '3.6'
+
+      - uses: actions/cache@v2
+        with:
+          path: ~/.local/share/virtualenvs
+          key: ${{ runner.os }}-python-${{ steps.setup-python.outputs.python-version }}-pipenv-${{ hashFiles('Pipfile.lock') }}
+
+      - run: pip install pipenv
+
+      - run: pipenv sync --dev
+
+      - env:
+          REBRANDLY_API_KEY: ${{ secrets.REBRANDLY_API_KEY }}
+        run: |
+          pipenv run spreadsheet2shortlinks --yes --verbose \
+            --spreadsheet "https://docs.google.com/spreadsheets/d/1roQz9xvBHJNGBXl7yYkRzDuoVOZ8Gs5r5dQsBCC43Rg/edit#gid=0" \
+            --domain-name "link.mchc.g0v.ca" \
+            --rebrandly-api-key "$REBRANDLY_API_KEY"
