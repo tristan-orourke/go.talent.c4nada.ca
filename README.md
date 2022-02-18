@@ -4,6 +4,8 @@ This code repository contains a list of helpful shortlinks for finding public re
 
 The shortlinks are automatically updated on each change to this repository
 
+[![screencast of shortlinks in action](http://g.recordit.co/tcG9ky2XQz.gif)](https://recordit.co/tcG9ky2XQz)
+
 ## Why?
 
 Maintaining a shortlink service with other people allows:
