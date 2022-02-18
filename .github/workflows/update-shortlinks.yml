@@ -38,6 +38,6 @@ jobs:
           REBRANDLY_API_KEY: ${{ secrets.REBRANDLY_API_KEY }}
         run: |
           pipenv run spreadsheet2shortlinks --yes --verbose \
-            --spreadsheet "https://docs.google.com/spreadsheets/d/1roQz9xvBHJNGBXl7yYkRzDuoVOZ8Gs5r5dQsBCC43Rg/edit#gid=0" \
-            --domain-name "link.mchc.g0v.ca" \
+            --spreadsheet shortlinks.csv \
+            --domain-name "go.talent.c4nada.ca" \
             --rebrandly-api-key "$REBRANDLY_API_KEY"
