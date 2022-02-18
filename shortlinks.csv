@@ -11,3 +11,4 @@ auth-config,https://te-auth.id.tbs-sct.gc.ca/oxauth/.well-known/openid-configura
 speedlinks,https://handbook.hypha.coop/guides.html#accessing-shortlinks
 my-tickets,https://github.com/GCTC-NTGC/gc-digital-talent/issues?q=is:open+assignee:@me
 my-reviews,https://github.com/GCTC-NTGC/gc-digital-talent/pulls/review-requested/@me
+gdrive,https://drive.google.com/drive/folders/0B7YPedMAnJ3KTndVLUVyTGc4eXM
