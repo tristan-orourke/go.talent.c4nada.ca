@@ -6,10 +6,6 @@ on:
     paths:
       - .github/workflows/*shortlinks*.yml
       - shortlinks.csv
-  pull_request:
-    paths:
-      - .github/workflows/*shortlinks*.yml
-      - shortlinks.csv
   repository_dispatch:
     types: [force-update-shortlinks]
   workflow_dispatch:
@@ -38,6 +34,6 @@ jobs:
           REBRANDLY_API_KEY: ${{ secrets.REBRANDLY_API_KEY }}
         run: |
           pipenv run spreadsheet2shortlinks --yes --verbose \
-            --spreadsheet shortlinks.csv \
+            --spreadsheet "https://raw.githubusercontent.com/patcon/go.talent.c4nada.ca/${GITHUB_SHA}/shortlinks.csv" \
             --domain-name "go.talent.c4nada.ca" \
             --rebrandly-api-key "$REBRANDLY_API_KEY"
