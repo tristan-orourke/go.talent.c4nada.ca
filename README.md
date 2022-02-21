@@ -20,6 +20,10 @@ Maintaining a shortlink service with other people allows:
 [shortlink-badge]: https://github.com/patcon/go.talent.c4nada.ca/actions/workflows/update-shortlinks.yml/badge.svg
 [shortlink-logs]: https://github.com/patcon/go.talent.c4nada.ca/actions/workflows/update-shortlinks.yml
 
+DNS records for this shortlink service are managed [within a public config file][dns] in a collectively-run code repository, [`g0v-network/domains`][g0v-domains].
+
+   [dns]: https://github.com/g0v-network/domains/blob/main/c4nada.ca.domain/go.talent.c4nada.ca.yaml
+   [g0v-domains]: https://github.com/g0v-network/domains/
 
 ## Technologies Used
 
