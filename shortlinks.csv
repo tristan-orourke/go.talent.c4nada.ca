@@ -14,7 +14,7 @@ my-reviews,https://github.com/GCTC-NTGC/gc-digital-talent/pulls?q=is:open+assign
 gdrive,https://drive.google.com/drive/folders/0B7YPedMAnJ3KTndVLUVyTGc4eXM
 gmail,https://mail.google.com/mail/#search/*@tbs-sct.gc.ca+label:inbox
 code,https://github.com/gcTC-NTGC/gc-digital-talent/
-repo,code,https://github.com/gcTC-NTGC/gc-digital-talent/
+repo,https://github.com/gcTC-NTGC/gc-digital-talent/
 github,https://github.com/gcTC-NTGC
 gh,https://github.com/gcTC-NTGC
 storybook,https://main--61e099a1bb1465003a73d3ce.chromatic.com/
