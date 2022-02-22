@@ -14,6 +14,7 @@ my-reviews,https://github.com/GCTC-NTGC/gc-digital-talent/pulls?q=is:open+assign
 gdrive,https://drive.google.com/drive/folders/0B7YPedMAnJ3KTndVLUVyTGc4eXM
 gmail,https://mail.google.com/mail/#search/*@tbs-sct.gc.ca+label:inbox
 code,https://github.com/gcTC-NTGC/gc-digital-talent/
+repo,code,https://github.com/gcTC-NTGC/gc-digital-talent/
 github,https://github.com/gcTC-NTGC
 gh,https://github.com/gcTC-NTGC
 storybook,https://main--61e099a1bb1465003a73d3ce.chromatic.com/
@@ -23,3 +24,4 @@ ui-builds,https://www.chromatic.com/builds?appId=61e099a1bb1465003a73d3ce
 ui-reviews,https://www.chromatic.com/pullrequests?appId=61e099a1bb1465003a73d3ce
 chromatic,https://www.chromatic.com/pullrequests?appId=61e099a1bb1465003a73d3ce
 notifications,https://github.com/notifications?query=repo:GCTC-NTGC/gc-digital-talent+reason:comment+reason:mention+reason:team-mention+reason:assign+reason:review-requested
+zenhub,https://app.zenhub.com/workspaces/gc-digital-talent-6092dc05157fa30010edaef9/board
