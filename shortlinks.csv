@@ -1,6 +1,8 @@
 keyword,destination_url
 shortlinks,https://prose.io/#patcon/link.talent.c4nada.ca/edit/main/shortlinks.csv
 shortlinks-gh,https://github.com/patcon/go.talent.c4nada.ca/blob/main/shortlinks.csv
+shortlinks-changelog,https://github.com/patcon/go.talent.c4nada.ca/commits/main/shortlinks.csv
+shortlinks-status,https://github.com/patcon/go.talent.c4nada.ca/actions/workflows/update-shortlinks.yml
 figma,https://www.figma.com/files/team/968615166805902879/GC-Digital-Talent
 office,https://app.gather.town/app/nWrXrRG1riSo7SLw/TalentCloudForestOffice?spawnToken=i2Y-0vgBDFYgiU7k
 office-tea,https://app.gather.town/app/nWrXrRG1riSo7SLw/TalentCloudForestOffice?spawnToken=1pbDX5YKjUXg8Jt0
