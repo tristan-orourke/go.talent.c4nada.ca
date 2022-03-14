@@ -43,6 +43,8 @@ sprint-retro,http://go.talent.c4nada.ca/scrum-calls
 retro,http://go.talent.c4nada.ca/scrum-calls
 sprint-planning,http://go.talent.c4nada.ca/scrum-calls
 planning,http://go.talent.c4nada.ca/scrum-calls
+scrum-notes,https://docs.google.com/document/d/1AZYLj_SXILRK7TrmLQiDRQxGbkeoIm3I7JjToXkXyNU/edit
+sprint-notes,http://go.talent.c4nada.ca/scrum-notes
 sprint-review,https://bit.ly/patcon-talent-sr
 review,https://bit.ly/patcon-talent-sr
 timer,https://cuckoo.team/gc-digital-talent
@@ -54,7 +56,6 @@ webflow,https://gc-demo-b13fe2.webflow.io/
 dojo-notes,https://docs.google.com/document/d/1yG51bXSH6zooMJX28xV3GO0C9OFC2gud5PoNPmWyxjA/edit
 brinda-calls,https://bit.ly/3phdABu
 grant-calls,https://bit.ly/33SOem9
-standup-notes,https://docs.google.com/document/d/1AZYLj_SXILRK7TrmLQiDRQxGbkeoIm3I7JjToXkXyNU/edit
 learning-calls,https://bit.ly/3htq3hj
 translation,https://github.com/GCTC-NTGC/gc-digital-talent/tree/main/frontend/common#translation-utility-script
 dod,https://miro.com/app/board/uXjVOYKIfbo=/?moveToWidget=3458764520129296334&cot=14
