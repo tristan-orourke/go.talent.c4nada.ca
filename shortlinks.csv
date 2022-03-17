@@ -1,4 +1,7 @@
 keyword,destination_url
+chat,https://talent-cloud.slack.com/
+slack,http://go.talent.c4nada.ca/chat
+slactions,https://hackmd.io/@patcon/slactions
 shortlinks,https://prose.io/#patcon/go.talent.c4nada.ca/edit/main/shortlinks.csv
 shortlinks-gh,https://github.com/patcon/go.talent.c4nada.ca/blob/main/shortlinks.csv
 shortlinks-changelog,https://github.com/patcon/go.talent.c4nada.ca/commits/main/shortlinks.csv
