@@ -28,10 +28,10 @@ my-reviews,https://github.com/GCTC-NTGC/gc-digital-talent/pulls?q=is:open+review
 my-prs,https://github.com/GCTC-NTGC/gc-digital-talent/pulls?q=is:open+assignee:@me+sort:updated-desc
 gdrive,https://drive.google.com/drive/folders/0B7YPedMAnJ3KTndVLUVyTGc4eXM
 gmail,https://mail.google.com/mail/#search/*@tbs-sct.gc.ca+label:inbox
-code,https://github.com/gcTC-NTGC/gc-digital-talent/
-repo,https://github.com/gcTC-NTGC/gc-digital-talent/
+code,https://github.com/GCTC-NTGC/gc-digital-talent/
+repo,http://go.talent.c4nada.ca/code
 github,https://github.com/gcTC-NTGC
-gh,https://github.com/gcTC-NTGC
+gh,http://go.talent.c4nada.ca/github
 storybook,https://main--61e099a1bb1465003a73d3ce.chromatic.com/
 ui-library,https://www.chromatic.com/library?appId=61e099a1bb1465003a73d3ce&branch=main
 ui-tests,https://www.chromatic.com/builds?appId=61e099a1bb1465003a73d3ce
