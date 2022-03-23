@@ -1,4 +1,5 @@
 keyword,destination_url
+repo-priv,https://github.com/GCTC-NTGC/meta-private
 shortlinks-about,https://hackmd.io/@patcon/shortlinks-about
 shortlinks-gh,https://github.com/patcon/go.talent.c4nada.ca/blob/main/shortlinks.csv
 shortlinks-prose,https://prose.io/#patcon/go.talent.c4nada.ca/edit/main/shortlinks.csv
