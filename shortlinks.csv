@@ -2,6 +2,7 @@ keyword,destination_url
 dev-backlog,https://github.com/GCTC-NTGC/gc-digital-talent/issues
 des-backlog,https://github.com/orgs/GCTC-NTGC/projects/7/views/1
 backlog,http://go.talent.c4nada.ca/dev-backlog
+groups,https://app.slack.com/client/T5ZFRSQ3V/browse-user-groups
 repo-priv,https://github.com/GCTC-NTGC/meta-private
 shortlinks-about,https://hackmd.io/@patcon/shortlinks-about
 shortlinks-gh,https://github.com/patcon/go.talent.c4nada.ca/blob/main/shortlinks.csv
