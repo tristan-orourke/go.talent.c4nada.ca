@@ -26,8 +26,8 @@ jobs:
           path: ~/.local/share/virtualenvs
           key: ${{ runner.os }}-python-${{ steps.setup-python.outputs.python-version }}-pipenv-${{ hashFiles('Pipfile.lock') }}
 
-      # Stops working on python 3.6 after this version.
-      - run: pip install pipenv 2022.4.8
+      # Stops working on python 3.6 at this version.
+      - run: pip install 'pipenv<2022.4.20'
 
       - run: pipenv sync --dev
 
