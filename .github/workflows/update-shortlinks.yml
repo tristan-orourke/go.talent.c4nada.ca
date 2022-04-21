@@ -27,7 +27,7 @@ jobs:
           key: ${{ runner.os }}-python-${{ steps.setup-python.outputs.python-version }}-pipenv-${{ hashFiles('Pipfile.lock') }}
 
       # Stops working on python 3.6 after this version.
-      - run: pip install pipenv v2022.4.8
+      - run: pip install pipenv 2022.4.8
 
       - run: pipenv sync --dev
 
