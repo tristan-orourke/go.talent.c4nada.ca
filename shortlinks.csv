@@ -48,8 +48,8 @@ auth-keys,https://te-auth.id.tbs-sct.gc.ca/oxauth/restv1/jwks
 auth-config,https://te-auth.id.tbs-sct.gc.ca/oxauth/.well-known/openid-configuration
 speedlinks,https://hackmd.io/@patcon/shortlinks-about#Bonus-protip-Speedlinks
 my-tickets,https://github.com/GCTC-NTGC/gc-digital-talent/issues?q=is:open+assignee:@me+sort:updated-desc
-my-reviews,https://github.com/GCTC-NTGC/gc-digital-talent/pulls?q=is:open+review-requested:@me+sort:updated-desc
-my-prs,https://github.com/GCTC-NTGC/gc-digital-talent/pulls?q=is:open+assignee:@me+sort:updated-desc
+my-reviews,https://github.com/GCTC-NTGC/gc-digital-talent/pulls?q=is:open+review-requested:@me+sort:updated-desc+user:GCTC-NTGC
+my-prs,https://github.com/GCTC-NTGC/gc-digital-talent/pulls?q=is:open+assignee:@me+sort:updated-desc+user:GCTC-NTGC
 gdrive,https://drive.google.com/drive/folders/0B7YPedMAnJ3KTndVLUVyTGc4eXM
 gmail,https://mail.google.com/mail/#search/*@tbs-sct.gc.ca+label:inbox
 code,https://github.com/GCTC-NTGC/gc-digital-talent/
